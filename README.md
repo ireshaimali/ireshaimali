@@ -29,7 +29,7 @@ I am a **Senior Data Analyst** at **American Water System**, passionate about da
 ---
 
 ## 📫 Connect with Me  
-- **LinkedIn:** [linkedin.com/in/ireshaimali](https://linkedin.com/in/ireshaimali)  
+- **LinkedIn:** [https://www.linkedin.com/in/iresha-imali-%F0%9F%87%B1%F0%9F%87%B0-0582b217b/)  
 - **GitHub:** [github.com/ireshaimali](https://github.com/ireshaimali)  
 
 ---
